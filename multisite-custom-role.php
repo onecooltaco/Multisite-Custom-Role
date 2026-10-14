@@ -1,15 +1,18 @@
 <?php
 
 /**
- * Plugin Name:  Multisite Custom Role
- * Version:  1.0
- * Description:  Customize WordPress User Roles.
- * Author:  Jeremy Leggat
- * Author URI:  https://cronkite.asu.edu
+ * Plugin Name: Multisite Custom Role
+ * Plugin URI: https://github.com/onecooltaco/Multisite-Custom-Role
+ * Description: Grant site administrators selected network, plugin, and theme capabilities across a WordPress Multisite network.
+ * Version: 1.0.0
+ * Author: Jeremy Leggat
+ * Author URI: https://github.com/onecooltaco
+ * Requires at least: 4.8
+ * Network: true
  * GitHub Plugin URI: https://github.com/onecooltaco/Multisite-Custom-Role
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:  custom-role
+ * Text Domain: multisite-custom-role
  */
 
 // this code runs only during plugin activation and never again
