@@ -1,5 +1,7 @@
 # Multisite Custom Role
 
+> **Archived project:** This plugin is no longer maintained and is retained for historical reference. Do not use it for new installations. If it is already installed, review the [deactivation and removal guidance](#deactivation-and-removal) before deleting it because its role changes persist after deactivation.
+
 A small WordPress Multisite plugin that gives site administrators selected network, plugin, and theme-management capabilities across a network.
 
 > **Security warning:** This plugin deliberately expands the authority of the Administrator role beyond WordPress Multisite defaults. It is intended only for networks where every site administrator is trusted to install, edit, update, and delete executable code.
@@ -67,7 +69,7 @@ These items are documented for maintainers and should be addressed and tested be
 
 ## Project status
 
-This is a focused, legacy plugin with no bundled automated tests. Contributions should include a clear description of the Multisite scenario tested and any security implications of the change.
+This project is archived and no longer maintained. It receives no compatibility or security updates and has no bundled automated tests. The source remains available for historical reference; forks should independently review its security model and compatibility with current WordPress releases.
 
 ## License
 
